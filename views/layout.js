@@ -19,20 +19,17 @@ module.exports = ({ content }) => {
               <div>
                 <ul class="social">
                   <li>
-                    <a href=""><i class="fa fa-phone"></i>+1 555 987 6543</a>
+                    <a href=""><i class="fa fa-phone"></i>+23452640276</a>
                   </li>
                   <li>
-                    <a href=""><i class="fa fa-envelope"></i> shop@myshop.com</a>
+                    <a href="https://www.linkedin.com/in/kelvin-ofili/"><i class="fa fa-envelope"></i> Kelvin Ofili</a>
                   </li>
                 </ul>
               </div>
               <div>
                 <ul class="social">
-                  <li><a href=""><i class="fab fa-facebook"></i></a></li>
-                  <li><a href=""><i class="fab fa-twitter"></i></a></li>
-                  <li><a href=""><i class="fab fa-linkedin"></i></a></li>
-                  <li><a href=""><i class="fab fa-dribbble"></i></a></li>
-                  <li><a href=""><i class="fab fa-google-plus"></i></a></li>
+                  <li><a href="https://www.linkedin.com/in/kelvin-ofili/"><i class="fab fa-linkedin"></i></a></li>
+                  <li><a href="https://github.com/Kelvin-Ofili"><i class="fab fa-github"></i></a></li>
                 </ul>
               </div>
             </div>

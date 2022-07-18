@@ -20,6 +20,12 @@ app.use(productsRouter);
 app.use(adminProductsRouter);
 app.use(cartsRouter);
 
+app.get("/", (req, res) => {
+  res.send("Express on Vercel");
+});
+
 app.listen(3000, () => {
   console.log('Listening');
 });
+
+module.exports = app;
